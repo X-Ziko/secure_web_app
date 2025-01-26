@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(169, 253, 253);
+}
+
+.head1 {
+  height: auto;
+  width: 100%;
+}
+.head1 h1 {
+  font-weight: 800;
+  color: rgb(2, 48, 48);
+}
+
+.info {
+  float: left;
+  position: relative;
+  top: 50px;
+  height: auto;
+  width: 48%;
+  border: 5px solid blue;
+  border-radius: 10px;
+}
+.info h1 {
+  font-weight: 800;
+  color: blueviolet;
+}
+
+.gif {
+  float: right;
+  position: relative;
+  top: 50px;
+  height: auto;
+  width: 50%;
+  border: 5px solid blue;
+  border-radius: 10px;
+}
+.gif .img {
+  max-width: 100%;
+  height: auto;
+}/*# sourceMappingURL=style.css.map */
